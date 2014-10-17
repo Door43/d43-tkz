@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tkz:home|Door43 (tkz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tkz|d43-tkz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tkz/archive/master.zip|d43-tkz.zip]]
+
+**Recent Changes**
+{{changes>ns = tkz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tkz|Ethnologue data]]
+
